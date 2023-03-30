@@ -1,0 +1,2 @@
+# YantoKoding
+latihan di YantoKoding
